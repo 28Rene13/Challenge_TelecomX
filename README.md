@@ -10,7 +10,7 @@ Este proyecto analiza los patrones de evasión de clientes (Churn) en Telecom X 
 
 
 ## 📂 Estructura del Proyecto
-
+...
 Challenge_TelecomX/
 │
 ├── Imagenes/                  # Gráficos del análisis
