@@ -26,3 +26,7 @@ Challenge_TelecomX/
 ├── Challenge_TelecomX_LATAM.ipynb  # Notebook principal
 └── README.md                   # Este archivo
 
+## 🔍 Hallazgos Visuales Clave
+
+Distribución de Churn (26% de abandono)
+![Alt text](https://github.com/28Rene13/Challenge_TelecomX/blob/main/Imagenes/DistribuciondeChurn.png)
