@@ -21,10 +21,10 @@ Challenge_TelecomX/
 │   ├── CorrelaciondeVariablesNumericasconChurn.png
 │   └── DistribuciondeClientesporNiveldeRiesgo.png
 │
+├──README.md                   # Este archivo
+├── Challenge_TelecomX_LATAM.ipynb  #Código elaborado en Google Colab
 ├── TelecomX_Data.json          # Datos originales
-├── TelecomX_diccionario.md     # Diccionario de columnas
-├── Challenge_TelecomX_LATAM.ipynb  # Notebook principal
-└── README.md                   # Este archivo
+└── TelecomX_diccionario.md     # Diccionario
 ```
 
 
