@@ -28,9 +28,8 @@ Challenge_TelecomX/
 
 ## 🔍 Hallazgos Visuales Clave
 
-### Distribución de Churn (26% de abandono)
-### 1. Distribución de Churn (26.5% de abandono)
-![Distribución](https://github.com/28Rene13/Challenge_TelecomX/raw/main/Imagenes/DistribuciondeChurn.png)
+### 1. Distribución de Churn (26 de abandono)
+![Image](https://github.com/28Rene13/Challenge_TelecomX/blob/71aaa5883c1faf5c362c8c500431a6dbd5e345ab/Imagenes/DistribuciondeChurn.png)
 
 ### 2. Impacto del Tipo de Contrato
 ![Contratos](https://github.com/28Rene13/Challenge_TelecomX/raw/main/Imagenes/TasadeChurnporTipodeContrato.png)
