@@ -47,4 +47,6 @@ Challenge_TelecomX/
 ![Riesgo](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/DistribuciondeClientesporNiveldeRiesgo.png)
 
 
+# Test de Imagen
+
 ![Distribución de Churn](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/DistribuciondeChurn.png)
