@@ -10,16 +10,19 @@ Este proyecto analiza los patrones de evasión de clientes (Churn) en Telecom X 
 
 ## 📂 Estructura del Proyecto
 
+```
 Challenge_TelecomX/
-├── Imagenes/                  # Gráficos del análisis
-│   ├── DistribuciondeChurn.png
-│   ├── TasadeChurnporTipodeContrato.png
-│   ├── MetodosdePagoconMayorTasadeAbandono.png
-│   ├── DistribuciondeFacturacionMensualporEstadodeCliente.png
-│   ├── CorrelaciondeVariablesNumericasconChurn.png
-│   └── DistribuciondeClientesporNiveldeRiesgo.png)
-| TelecomX_Data.json                     # Datos originales
-│  TelecomX_diccionario.md               # Diccionario con la descripción de cada columna.
-├── Challenge_TelecomX_LATAM.ipynb  # Notebook principal
-└── README.md                 # Este archivo
+│
+├── Imagenes/                  # Gráficos del análisis
+│   ├── DistribuciondeChurn.png
+│   ├── TasadeChurnporTipodeContrato.png
+│   ├── MetodosdePagoconMayorTasadeAbandono.png
+│   ├── DistribuciondeFacturacionMensualporEstadodeCliente.png
+│   ├── CorrelaciondeVariablesNumericasconChurn.png
+│   └── DistribuciondeClientesporNiveldeRiesgo.png
+│
+├── TelecomX_Data.json          # Datos originales
+├── TelecomX_diccionario.md     # Diccionario de columnas
+├── Challenge_TelecomX_LATAM.ipynb  # Notebook principal
+└── README.md                   # Este archivo
 
