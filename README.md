@@ -28,11 +28,25 @@ Challenge_TelecomX/
 
 ## 🔍 Hallazgos Visuales Clave
 
-### 1. Distribución de Churn (26 de abandono)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/71aaa5883c1faf5c362c8c500431a6dbd5e345ab/Imagenes/DistribuciondeChurn.png" alt="Distribución de Churn">
-</p>
+## 🔍 Hallazgos Visuales Clave
 
+### 1. Distribución de Churn (26 de abandono)
+![Distribución de Churn](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/DistribuciondeChurn.png)
 
 ### 2. Impacto del Tipo de Contrato
-![Contratos](https://github.com/28Rene13/Challenge_TelecomX/raw/main/Imagenes/TasadeChurnporTipodeContrato.png)
+![Contratos](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/TasadeChurnporTipodeContrato.png)
+
+### 3. Métodos de Pago con Mayor Tasa de Abandono
+![Métodos de Pago](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/MetodosdePagoconMayorTasadeAbandono.png)
+
+### 4. Distribución de Facturación Mensual por Estado del Cliente
+![Facturación Mensual](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/DistribuciondeFacturacionMensualporEstadodeCliente.png)
+
+### 5. Correlación de Variables Numéricas con Churn
+![Correlación](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/CorrelaciondeVariablesNumericasconChurn.png)
+
+### 6. Distribución de Clientes por Nivel de Riesgo
+![Riesgo](https://raw.githubusercontent.com/28Rene13/Challenge_TelecomX/main/Imagenes/DistribuciondeClientesporNiveldeRiesgo.png)
+
+
+
