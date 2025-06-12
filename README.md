@@ -29,4 +29,4 @@ Challenge_TelecomX/
 ## 🔍 Hallazgos Visuales Clave
 
 Distribución de Churn (26% de abandono)
-![Alt text](https://github.com/28Rene13/Challenge_TelecomX/blob/main/Imagenes/DistribuciondeChurn.png)
+![Image_Alt](https://github.com/28Rene13/Challenge_TelecomX/blob/71aaa5883c1faf5c362c8c500431a6dbd5e345ab/Imagenes/DistribuciondeChurn.png)
